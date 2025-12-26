@@ -65,6 +65,6 @@ echo "ICU libraries found successfully"
 echo "Installing from GitHub repository..."
 
 # Install from git
-cargo install --git https://github.com/jamierpond/tectonic --branch jp/fix-std
+cargo install --git https://github.com/jamierpond/tectonic --branch jp/fix-std tectonic
 
 echo "Installation complete!"
